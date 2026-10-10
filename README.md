@@ -1,5 +1,5 @@
 # ROXA ( DriveSkills: AI-Based Driving Evaluation System)🚗 
-- [Visit Project](https://roxa.vercel.app/)
+- [Visit the website](https://roxa.vercel.app/)
 
 - [DEMO](https://www.youtube.com/watch?v=tsPAnppxqkI)
 ## Overview
